@@ -1,0 +1,203 @@
+{
+    "status": true,
+    "message": "",
+    "data": {
+        "blueWhaleD": "NSM4RNp2m+QchLVCyVo6vw==",
+        "igh": false,
+        "i": true,
+        "c": false,
+        "v": false,
+        "sul": "WHHLqTaRUf54qoNFXbf/SnLLUtLWpLU9r6CxZDvbISicxLAaPaGfVoLOtAzT7iPmzD5XihPyHjIwGiTJiNs5Fg==",
+        "cul": "WHHLqTaRUf54qoNFXbf/SnLLUtLWpLU9r6CxZDvbISgX05p7oQHPXJtSln1nnD2U",
+        "server": [
+            {
+                "level": "C级-青铜服务器",
+                "rc": 3,
+                "consume": "0",
+                "list": [
+                    {
+                        "host": "GX+v4iLBr4roKilf8rH0he/CIO+tiBfR75PEtZyUdT4=",
+                        "port": "anfvgbNUqmKlENUMTCCwvw==",
+                        "country": "Vt4QrLXgxy6Tw0V0EbKSrQ==",
+                        "zhCity": "jFUJeF/QJyz9C2HnpQaheg==",
+                        "enCity": "emXbGKCem/CQX1dnAtQL4g==",
+                        "s": "Eg/uZjYg3GUA3sVLcSK08A=="
+                    },
+                    {
+                        "host": "eCGMQRXb5jhmHq3HFFkuhe/CIO+tiBfR75PEtZyUdT4=",
+                        "port": "anfvgbNUqmKlENUMTCCwvw==",
+                        "country": "wj8Guy9ChFnCUchIgnUgvQ==",
+                        "zhCity": "yqWrM3tHspcvh6gwXo2f8Q==",
+                        "enCity": "Rjo1mQk2gV2NM+4YD/rUDg==",
+                        "s": "jOPJcAXFeGi92DWW3ydOWw=="
+                    },
+                    {
+                        "host": "MXXJI9nknv25h0QHI4u+uu/CIO+tiBfR75PEtZyUdT4=",
+                        "port": "anfvgbNUqmKlENUMTCCwvw==",
+                        "country": "tcZhQRSpsnKJEddKWvcG6Q==",
+                        "zhCity": "BPqD9pKqYDB7lDMRo0vMqA==",
+                        "enCity": "i/P1DosdoLHziIhJ2d8Uzw==",
+                        "s": "twmDm+X30d0KNtDrMOryVw=="
+                    },
+                    {
+                        "host": "U3T+X2PLTMM4tWIp0q+K4u/CIO+tiBfR75PEtZyUdT4=",
+                        "port": "anfvgbNUqmKlENUMTCCwvw==",
+                        "country": "wqB9FwaALZu5qTnAvjY1Eg==",
+                        "zhCity": "CAxxcj9YoE+ntXTP+YnhoQ==",
+                        "enCity": "YQNv2v4MtKCAypfM4RiGBQ==",
+                        "s": "ClJ7cC8IomLyUyiPjKACfw=="
+                    },
+                    {
+                        "host": "jf9bsFKoGLEot6DdFU3NPu/CIO+tiBfR75PEtZyUdT4=",
+                        "port": "anfvgbNUqmKlENUMTCCwvw==",
+                        "country": "h+KzJEXwcdPn5LwvgsTL5A==",
+                        "zhCity": "BRyGqHf61UvPYB5nvaH58g==",
+                        "enCity": "aVfmVTvNEo4pf4z/x/90ww==",
+                        "s": "49hUqXYfuwvlg6HHSDDCLA=="
+                    }
+                ]
+            },
+            {
+                "level": "B级-白银服务器",
+                "rc": 4,
+                "consume": "10",
+                "list": [
+                    {
+                        "host": "GX+v4iLBr4roKilf8rH0he/CIO+tiBfR75PEtZyUdT4=",
+                        "port": "anfvgbNUqmKlENUMTCCwvw==",
+                        "country": "Vt4QrLXgxy6Tw0V0EbKSrQ==",
+                        "zhCity": "jFUJeF/QJyz9C2HnpQaheg==",
+                        "enCity": "emXbGKCem/CQX1dnAtQL4g==",
+                        "s": "Eg/uZjYg3GUA3sVLcSK08A=="
+                    },
+                    {
+                        "host": "eCGMQRXb5jhmHq3HFFkuhe/CIO+tiBfR75PEtZyUdT4=",
+                        "port": "anfvgbNUqmKlENUMTCCwvw==",
+                        "country": "wj8Guy9ChFnCUchIgnUgvQ==",
+                        "zhCity": "yqWrM3tHspcvh6gwXo2f8Q==",
+                        "enCity": "Rjo1mQk2gV2NM+4YD/rUDg==",
+                        "s": "jOPJcAXFeGi92DWW3ydOWw=="
+                    },
+                    {
+                        "host": "MXXJI9nknv25h0QHI4u+uu/CIO+tiBfR75PEtZyUdT4=",
+                        "port": "anfvgbNUqmKlENUMTCCwvw==",
+                        "country": "tcZhQRSpsnKJEddKWvcG6Q==",
+                        "zhCity": "BPqD9pKqYDB7lDMRo0vMqA==",
+                        "enCity": "i/P1DosdoLHziIhJ2d8Uzw==",
+                        "s": "twmDm+X30d0KNtDrMOryVw=="
+                    },
+                    {
+                        "host": "U3T+X2PLTMM4tWIp0q+K4u/CIO+tiBfR75PEtZyUdT4=",
+                        "port": "anfvgbNUqmKlENUMTCCwvw==",
+                        "country": "wqB9FwaALZu5qTnAvjY1Eg==",
+                        "zhCity": "CAxxcj9YoE+ntXTP+YnhoQ==",
+                        "enCity": "YQNv2v4MtKCAypfM4RiGBQ==",
+                        "s": "ClJ7cC8IomLyUyiPjKACfw=="
+                    },
+                    {
+                        "host": "jf9bsFKoGLEot6DdFU3NPu/CIO+tiBfR75PEtZyUdT4=",
+                        "port": "anfvgbNUqmKlENUMTCCwvw==",
+                        "country": "h+KzJEXwcdPn5LwvgsTL5A==",
+                        "zhCity": "BRyGqHf61UvPYB5nvaH58g==",
+                        "enCity": "aVfmVTvNEo4pf4z/x/90ww==",
+                        "s": "49hUqXYfuwvlg6HHSDDCLA=="
+                    }
+                ]
+            },
+            {
+                "level": "A级-铂金服务器",
+                "rc": 5,
+                "consume": "20",
+                "list": [
+                    {
+                        "host": "GX+v4iLBr4roKilf8rH0he/CIO+tiBfR75PEtZyUdT4=",
+                        "port": "anfvgbNUqmKlENUMTCCwvw==",
+                        "country": "Vt4QrLXgxy6Tw0V0EbKSrQ==",
+                        "zhCity": "jFUJeF/QJyz9C2HnpQaheg==",
+                        "enCity": "emXbGKCem/CQX1dnAtQL4g==",
+                        "s": "Eg/uZjYg3GUA3sVLcSK08A=="
+                    },
+                    {
+                        "host": "eCGMQRXb5jhmHq3HFFkuhe/CIO+tiBfR75PEtZyUdT4=",
+                        "port": "anfvgbNUqmKlENUMTCCwvw==",
+                        "country": "wj8Guy9ChFnCUchIgnUgvQ==",
+                        "zhCity": "yqWrM3tHspcvh6gwXo2f8Q==",
+                        "enCity": "Rjo1mQk2gV2NM+4YD/rUDg==",
+                        "s": "jOPJcAXFeGi92DWW3ydOWw=="
+                    },
+                    {
+                        "host": "MXXJI9nknv25h0QHI4u+uu/CIO+tiBfR75PEtZyUdT4=",
+                        "port": "anfvgbNUqmKlENUMTCCwvw==",
+                        "country": "tcZhQRSpsnKJEddKWvcG6Q==",
+                        "zhCity": "BPqD9pKqYDB7lDMRo0vMqA==",
+                        "enCity": "i/P1DosdoLHziIhJ2d8Uzw==",
+                        "s": "twmDm+X30d0KNtDrMOryVw=="
+                    },
+                    {
+                        "host": "U3T+X2PLTMM4tWIp0q+K4u/CIO+tiBfR75PEtZyUdT4=",
+                        "port": "anfvgbNUqmKlENUMTCCwvw==",
+                        "country": "wqB9FwaALZu5qTnAvjY1Eg==",
+                        "zhCity": "CAxxcj9YoE+ntXTP+YnhoQ==",
+                        "enCity": "YQNv2v4MtKCAypfM4RiGBQ==",
+                        "s": "ClJ7cC8IomLyUyiPjKACfw=="
+                    },
+                    {
+                        "host": "jf9bsFKoGLEot6DdFU3NPu/CIO+tiBfR75PEtZyUdT4=",
+                        "port": "anfvgbNUqmKlENUMTCCwvw==",
+                        "country": "h+KzJEXwcdPn5LwvgsTL5A==",
+                        "zhCity": "BRyGqHf61UvPYB5nvaH58g==",
+                        "enCity": "aVfmVTvNEo4pf4z/x/90ww==",
+                        "s": "49hUqXYfuwvlg6HHSDDCLA=="
+                    }
+                ]
+            },
+            {
+                "level": "S级-星耀服务器",
+                "rc": 6,
+                "consume": "30",
+                "list": [
+                    {
+                        "host": "GX+v4iLBr4roKilf8rH0he/CIO+tiBfR75PEtZyUdT4=",
+                        "port": "anfvgbNUqmKlENUMTCCwvw==",
+                        "country": "Vt4QrLXgxy6Tw0V0EbKSrQ==",
+                        "zhCity": "jFUJeF/QJyz9C2HnpQaheg==",
+                        "enCity": "emXbGKCem/CQX1dnAtQL4g==",
+                        "s": "Eg/uZjYg3GUA3sVLcSK08A=="
+                    },
+                    {
+                        "host": "eCGMQRXb5jhmHq3HFFkuhe/CIO+tiBfR75PEtZyUdT4=",
+                        "port": "anfvgbNUqmKlENUMTCCwvw==",
+                        "country": "wj8Guy9ChFnCUchIgnUgvQ==",
+                        "zhCity": "yqWrM3tHspcvh6gwXo2f8Q==",
+                        "enCity": "Rjo1mQk2gV2NM+4YD/rUDg==",
+                        "s": "jOPJcAXFeGi92DWW3ydOWw=="
+                    },
+                    {
+                        "host": "MXXJI9nknv25h0QHI4u+uu/CIO+tiBfR75PEtZyUdT4=",
+                        "port": "anfvgbNUqmKlENUMTCCwvw==",
+                        "country": "tcZhQRSpsnKJEddKWvcG6Q==",
+                        "zhCity": "BPqD9pKqYDB7lDMRo0vMqA==",
+                        "enCity": "i/P1DosdoLHziIhJ2d8Uzw==",
+                        "s": "twmDm+X30d0KNtDrMOryVw=="
+                    },
+                    {
+                        "host": "U3T+X2PLTMM4tWIp0q+K4u/CIO+tiBfR75PEtZyUdT4=",
+                        "port": "anfvgbNUqmKlENUMTCCwvw==",
+                        "country": "wqB9FwaALZu5qTnAvjY1Eg==",
+                        "zhCity": "CAxxcj9YoE+ntXTP+YnhoQ==",
+                        "enCity": "YQNv2v4MtKCAypfM4RiGBQ==",
+                        "s": "ClJ7cC8IomLyUyiPjKACfw=="
+                    },
+                    {
+                        "host": "jf9bsFKoGLEot6DdFU3NPu/CIO+tiBfR75PEtZyUdT4=",
+                        "port": "anfvgbNUqmKlENUMTCCwvw==",
+                        "country": "h+KzJEXwcdPn5LwvgsTL5A==",
+                        "zhCity": "BRyGqHf61UvPYB5nvaH58g==",
+                        "enCity": "aVfmVTvNEo4pf4z/x/90ww==",
+                        "s": "49hUqXYfuwvlg6HHSDDCLA=="
+                    }
+                ]
+            }
+        ]
+    }
+}
