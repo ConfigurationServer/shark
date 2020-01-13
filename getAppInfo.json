@@ -4,6 +4,10 @@
     "data": {
         "zhNotice": "",
         "enNotice": "",
+        "desc": [
+            "欢迎使用1",
+            "欢迎使用2"
+        ],
         "qa": [
             {
                 "zhQuestion": "逗鲨是什么？",
