@@ -31,14 +31,14 @@
         "adList": [
             {
                 "title": "",
-                "zhUrl": "http://35.241.93.19:8080/shark/ad_0.1.jpg",
-                "enUrl": "http://35.241.93.19:8080/shark/ad_0.1.jpg",
+                "zhUrl": "https://35.241.93.19:8080/shark/ad_0.1.jpg",
+                "enUrl": "https://35.241.93.19:8080/shark/ad_0.1.jpg",
                 "action": ""
             },
             {
                 "title": "",
-                "zhUrl": "http://35.241.93.19:8080/shark/ad_0.1.jpg",
-                "enUrl": "http://35.241.93.19:8080/shark/ad_0.1.jpg",
+                "zhUrl": "https://35.241.93.19:8080/shark/ad_0.1.jpg",
+                "enUrl": "https://35.241.93.19:8080/shark/ad_0.1.jpg",
                 "action": ""
             }
         ],
