@@ -4,9 +4,15 @@
     "data": {
         "zhNotice": "",
         "enNotice": "",
+        "descEn": [
+            "Welcome to use！",
+            "Connect the world, so easy!"
+            
+        ],
         "desc": [
-            "欢迎使用1",
-            "欢迎使用2"
+            "欢迎使用！",
+            "连接世界，如此简单！"
+            
         ],
         "qa": [
             {
@@ -23,9 +29,9 @@
             }
         ],
         "comment": {
-            "zhTitle": "感谢使用！",
-            "zhContent": "非常感谢使用！",
-            "enTitle": "Thanks for using!",
+            "zhTitle": "评价我们！",
+            "zhContent": "非常感谢使用逗鲨！逗鲨会不忘初心，把用户体验放第一位。在成长的过程中，需要大家的反馈和支持，如果觉得逗鲨不错，请给我们留言，帮我们改进，免费不易！谢谢大家！",
+            "enTitle": "Give us a rating！",
             "enContent": "Thank you very much!"
         },
         "adList": [
