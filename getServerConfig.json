@@ -11,6 +11,7 @@
         "server": [
             {
                 "level": "C级-青铜服务器",
+                "levelEn": "Class C - bronze server",
                 "rc": 3,
                 "consume": "0",
                 "list": [
@@ -58,6 +59,7 @@
             },
             {
                 "level": "B级-白银服务器",
+                "levelEn": "Class B - silver server",
                 "rc": 4,
                 "consume": "10",
                 "list": [
@@ -105,6 +107,7 @@
             },
             {
                 "level": "A级-铂金服务器",
+                "levelEn": "Class A - platinum server",
                 "rc": 5,
                 "consume": "20",
                 "list": [
@@ -152,6 +155,7 @@
             },
             {
                 "level": "S级-星耀服务器",
+                "levelEn": "Class S - starlight server",
                 "rc": 6,
                 "consume": "30",
                 "list": [
