@@ -2,11 +2,11 @@
 	"status": true,
 	"message": "",
 	"data": {
-		"versionCode": 2,
-		"version": "0.0.2",
-		"zhDesc": "1、测试版正式上线！",
-		"enDesc": "1. Beta is officially online! ",
-		"type": 1,
+		"versionCode": 10,
+		"version": "0.1.0",
+		"zhDesc": "1、正式上线！",
+		"enDesc": "1. The official launch! ",
+		"type": 2,
 		"source":""
 	}
 }
