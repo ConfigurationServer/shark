@@ -10,8 +10,8 @@
         "cul": "vPyRoUTsZLdKlSf4pklYEWHPdsryFSLdMQG1cPTQjGF6rwHG77emEcsOt62Qx1SA",
         "server": [
             {
-                "level": "C级-青铜服务器",
-                "levelEn": "Class C - bronze server",
+                "level": "B级-青铜服务器",
+                "levelEn": "Class B - bronze server",
                 "rc": 3,
                 "consume": "0",
                 "list": [
@@ -58,10 +58,10 @@
                 ]
             },
             {
-                "level": "B级-白银服务器",
-                "levelEn": "Class B - silver server",
-                "rc": 4,
-                "consume": "10",
+                "level": "A级-白银服务器",
+                "levelEn": "Class A - silver server",
+                "rc": 8,
+                "consume": "20",
                 "list": [
                     {
                         "host": "jxeMIwFfFWvd/PmyGMOEru/CIO+tiBfR75PEtZyUdT4=",
@@ -110,16 +110,7 @@
                         "zhCity": "vpAm3N/TpN6kR3vqj4zj9g==",
                         "enCity": "oj792EqZBKrgf4BzBTXRFA==",
                         "s": "u+nyuhmP1a32F5vHmravpg=="
-                    }
-                ]
-            },
-            {
-                "level": "A级-铂金服务器",
-                "levelEn": "Class A - platinum server",
-                "rc": 5,
-                "consume": "20",
-                "list": [
-                    {
+                    },{
                         "host": "k1yKCGNPfj6zVnqddSjjOO/CIO+tiBfR75PEtZyUdT4=",
                         "port": "anfvgbNUqmKlENUMTCCwvw==",
                         "country": "e+SHWnnrHZSdDvWoD6Iv/A==",
@@ -184,13 +175,12 @@
                         "s": "kP4nqQWpSwSQn22X9sHHuA=="
                     }
                 ]
-                
             },
             {
                 "level": "S级-星耀服务器",
                 "levelEn": "Class S - starlight server",
                 "rc": 6,
-                "consume": "30",
+                "consume": "45",
                 "list": [
                     {
                         "host": "FbiZUMX1w3tL3teMnMt+19va+FrmwMsV59vZ80PQfyc=",
@@ -223,16 +213,7 @@
                         "zhCity": "PXT3ge7eR47bqWRC8KzLYg==",
                         "enCity": "ByXeQnEwzYnQX2/Y9Yxmyg==",
                         "s": "f5Cf66WVyxn+uxE19XcTHg=="
-                    }
-                ]
-            },
-            {
-                "level": "SS级-星耀服务器",
-                "levelEn": "Class SS - starlight server",
-                "rc": 6,
-                "consume": "35",
-                "list": [
-                    {
+                    }, {
                         "host": "ZYDY80jxamUIVp4Pz/bnJtva+FrmwMsV59vZ80PQfyc=",
                         "port": "anfvgbNUqmKlENUMTCCwvw==",
                         "country": "oUAGHvzsbL/7L5HlZ7jZ+A==",
