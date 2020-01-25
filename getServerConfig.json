@@ -61,8 +61,8 @@
             {
                 "level": "A级-白银服务器",
                 "levelEn": "Class A - silver server",
-                "rc": 8,
-                "consume": "1",
+                "rc": 16,
+                "consume": "25",
                 "list": [
                     {
                         "host": "jxeMIwFfFWvd/PmyGMOEru/CIO+tiBfR75PEtZyUdT4=",
@@ -181,7 +181,7 @@
                 "level": "S级-星耀服务器",
                 "levelEn": "Class S - starlight server",
                 "rc": 9,
-                "consume": "2",
+                "consume": "45",
                 "list": [
                     {
                         "host": "40OTqynkVzgaTO5UFR/eINva+FrmwMsV59vZ80PQfyc=",
