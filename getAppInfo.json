@@ -9,7 +9,66 @@
             "Connect the world, so easy!"
             
         ],
+        "desc": [{
+    "status": true,
+    "message": "",
+    "data": {
+        "zhNotice": "",
+        "enNotice": "",
+        "descEn": [
+            "Welcome to use！",
+            "Connect the world, so easy!"
+            
+        ],
         "desc": [
+            "欢迎使用！",
+            "连接世界，如此简单！"
+            
+        ],
+        "qa": [
+            {
+                "zhQuestion": "逗鲨是什么？",
+                "zhAnswer": "逗鲨是一款采用全新协议的vpn，高效安全！",
+                "enQuestion": "What is a FunnyShark?",
+                "enAnswer": "FunnyShark is a new protocol using the VPN, efficient and safe!"
+            },
+            {
+                "zhQuestion": "逗鲨免费吗？",
+                "zhAnswer": "完全免费！",
+                "enQuestion": "Is it free to play with Funnyshark?",
+                "enAnswer": "Totally free!"
+            }
+        ],
+        "comment": {
+            "zhTitle": "评价我们！",
+            "zhContent": "非常感谢使用逗鲨！逗鲨会不忘初心，把用户体验放第一位。在成长的过程中，需要大家的反馈和支持，如果觉得逗鲨不错，请给我们留言，帮我们改进，免费不易！谢谢大家！",
+            "enTitle": "Give us a rating！",
+            "enContent": "Thank you very much!"
+        },
+        "adList": [
+            {
+                "title": "",
+                "zhUrl": "https://whaleserver.site/config/shark/ad_0.1.jpg",
+                "enUrl": "https://whaleserver.site/config/shark/ad_0.1.jpg",
+                "action": ""
+            },
+            {
+                "title": "",
+                "zhUrl": "https://whaleserver.site/config/shark/ad_0.2.jpg",
+                "enUrl": "https://whaleserver.site/config/shark/ad_0.2.jpg",
+                "action": ""
+            }
+        ],
+        "info": [
+            {
+                "zhTitle": "恢复通知！",
+                "zhContent": "大家好 我是胖鲸！本来想着过年，全部服务器给大家开放，让大家在家没事可以正常使用，但是好像有些人并不领情！也罢，我的一味让步，换来的不是你的理解，而是更多的是质问？这几天很多vpn都开始挂了，为了给愿意帮助胖鲸的人更好的服务，我决定把积分恢复，S级服务器恢复到45积分，A级服务器恢复到25积分。看了谷歌后台，看到那么些的评论，实在让人心寒。大过年的，能不能给点温暖？最后！胖鲸祝大家新春快乐！身体健康！",
+                "enTitle": "A new VPN!",
+                "enContent": "New VPN teaser beta!"
+            }
+        ]
+    }
+}
             "欢迎使用！",
             "连接世界，如此简单！"
             
