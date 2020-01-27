@@ -180,7 +180,7 @@
             {
                 "level": "S级-星耀服务器",
                 "levelEn": "Class S - starlight server",
-                "rc": 9,
+                "rc": 12,
                 "consume": "30",
                 "list": [
                     {
@@ -252,6 +252,30 @@
                         "zhCity": "0PpM4olVtxJcAtNfD9F+Ow==",
                         "enCity": "zq9IxrLzeWh5Oc//NTSoNw==",
                         "s": "KeMKSmPTB8mMLXPbW8gGyw=="
+                    },
+                    {
+                        "host": "sySAf0pxhWz/nkgHnl927Nva+FrmwMsV59vZ80PQfyc=",
+                        "port": "anfvgbNUqmKlENUMTCCwvw==",
+                        "country": "oUAGHvzsbL/7L5HlZ7jZ+A==",
+                        "zhCity": "X08YbPIdcybnq8wvA9s0VA==",
+                        "enCity": "HG+iZImcwu4+IF7ji2YBTw==",
+                        "s": "Emx0ZSrHbARkmuopNyjzVg=="
+                    },
+                    {
+                        "host": "chrAe64AiK/TEBpb1OXtRdva+FrmwMsV59vZ80PQfyc=",
+                        "port": "anfvgbNUqmKlENUMTCCwvw==",
+                        "country": "wj8Guy9ChFnCUchIgnUgvQ==",
+                        "zhCity": "yqWrM3tHspcvh6gwXo2f8Q==",
+                        "enCity": "Rjo1mQk2gV2NM+4YD/rUDg==",
+                        "s": "TNgtosHPXelHoGmhiT8aKw=="
+                    },
+                    {
+                        "host": "iRNE2qZ5nPIe/xoJiUgfHdva+FrmwMsV59vZ80PQfyc=",
+                        "port": "anfvgbNUqmKlENUMTCCwvw==",
+                        "country": "++zr9xkykY2KwVtVAEQkyA==",
+                        "zhCity": "8WmnkBM0V36P3e1uUFK08g==",
+                        "enCity": "lH4ylwG2QMtLewpBgu4l5g==",
+                        "s": "k4I6CnV+dQHfBgjgilnNuA=="
                     }
                 ]
             }
