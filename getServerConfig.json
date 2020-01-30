@@ -13,7 +13,7 @@
             {
                 "level": "B级-青铜服务器",
                 "levelEn": "Class B - bronze server",
-                "rc": 3,
+                "rc": 5,
                 "consume": "0",
                 "list": [
                     {
@@ -62,7 +62,7 @@
                 "level": "A级-白银服务器",
                 "levelEn": "Class A - silver server",
                 "rc": 16,
-                "consume": "10",
+                "consume": "0",
                 "list": [
                     {
                         "host": "jxeMIwFfFWvd/PmyGMOEru/CIO+tiBfR75PEtZyUdT4=",
